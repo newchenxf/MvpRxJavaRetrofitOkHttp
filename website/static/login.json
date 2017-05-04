@@ -1,0 +1,8 @@
+{
+  "status": "200",
+  "message": "success",
+  "data": {
+    "userId": "admin",
+    "token": "test"
+  }
+}
